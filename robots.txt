@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dtauv.github.io/SHr/sitemap.SHr.gz
